@@ -7,3 +7,5 @@ Add the `mim` file to `~/.m17n.d` and restart the iBus daemon (or log in and out
 You should now be able to select English => Māori as your language input.
 
 Using macrons now can be done by using backtick plus the letter you want to write., e.g. `` `a`` for ā
+
+The reason for not using the right Alt or `AltGr` key, is that these combinations are already bound to other special characters.
