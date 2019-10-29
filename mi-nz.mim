@@ -1,0 +1,21 @@
+﻿(input-method en maori)
+(description
+ "Māori keyboard modifiers"
+ )
+(title "mi-NZ")
+(map
+  (trans
+    ("`A" "Ā")  ("`a" "ā")
+    ("`E" "Ē")  ("`e" "ē")
+    ("`I" "Ī")  ("`i" "ī")
+    ("`O" "Ō")  ("`o" "ō")
+    ("`U" "Ū")  ("`u" "ū")))
+
+(state
+ (init
+  (trans)))
+
+;; Local Variables:
+;; coding: utf-8
+;; mode: lisp
+;; End:
